@@ -4,6 +4,8 @@ from PIL import Image, ImageTk
 import os
 import re
 
+
+
 # File to store expenses
 EXPENSE_FILE = 'expenses.txt'
 
